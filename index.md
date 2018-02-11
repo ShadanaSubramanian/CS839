@@ -1,5 +1,5 @@
-##Team
--Sreyas Krishna Natarajan
--Sugadev Chellakkannu
--Vignesh Thirunavukkarasu
+## Team
+- Sreyas Krishna Natarajan
+- Sugadev Chellakkannu
+- Vignesh Thirunavukkarasu
 
