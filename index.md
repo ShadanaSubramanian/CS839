@@ -4,3 +4,10 @@
 - Sugadev Chellakkannu
 - Vignesh Thirunavukkarasu
 
+### STAGE 1
+- All Marked Documents
+- Set I
+- Set J
+- Code
+- Zipped content
+- Report
