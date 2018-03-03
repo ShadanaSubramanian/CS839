@@ -11,5 +11,5 @@
 * [Set J](https://github.com/sugadev/CS839/tree/master/Stage%201/Set%20J)
 * [Code](https://github.com/sugadev/CS839/tree/master/Stage%201/Code)
 <br/>     - [Jupyter Notebook for Best Classifier](https://github.com/sugadev/CS839/blob/master/Stage%201/Code/Person_Name_Classifier.ipynb)
-* [Zipped content](https://github.com/sugadev/CS839/blob/master/Stage%201/Stage1.zip)
+* [Zipped content](https://github.com/sugadev/CS839/raw/master/Stage%201/Stage1.zip)
 * [Report](https://github.com/sugadev/CS839/blob/master/Stage%201/Stage1_Report.pdf)
