@@ -3,7 +3,7 @@ from collections import OrderedDict
 class MetacryticSpider(scrapy.Spider):
     name ="metacrytic"
     def start_requests(self):
-        urls = [#"http://www.metacritic.com/browse/albums/genre/date/pop",
+        urls = ["http://www.metacritic.com/browse/albums/genre/date/pop",
                 "http://www.metacritic.com/browse/albums/genre/date/rock?view=condensed",
                 ]
         for url in urls:
