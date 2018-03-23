@@ -13,3 +13,9 @@
 <br/>     - [Jupyter Notebook for Best Classifier](https://github.com/sugadev/CS839/blob/master/Stage%201/Code/Person_Name_Classifier.ipynb)
 * [Zipped content](https://github.com/sugadev/CS839/raw/master/Stage%201/Stage1.zip)
 * [Report](https://github.com/sugadev/CS839/blob/master/Stage%201/Stage1_Report.pdf)
+### STAGE 2
+* [Crawled Data](https://github.com/sugadev/CS839/tree/master/Stage%202/Data)
+  <br/>  - [Data from Metacritic](https://github.com/sugadev/CS839/blob/master/Stage%202/Data/metacritic_music.csv)
+  <br/>  - [Data from BestBuy](https://github.com/sugadev/CS839/blob/master/Stage%202/Data/bestbuy_music.csv)
+* [Code](https://github.com/sugadev/CS839/tree/master/Stage%202/Code/cs839)
+* [Report](https://github.com/sugadev/CS839/blob/master/Stage%202/Stage2_Report.pdf)
