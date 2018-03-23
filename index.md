@@ -3,7 +3,7 @@
 - Sreyas Krishna Natarajan
 - Sugadev Chellakkannu
 - Vignesh Thirunavukkarasu
--
+
 ### STAGE 1
 * [Marked Documents](https://github.com/sugadev/CS839/tree/master/Stage%201/All%20Marked%20Documents)
   <br/>  - [README for Marked Documents](https://github.com/sugadev/CS839/blob/master/Stage%201/All%20Marked%20Documents/README.md)
