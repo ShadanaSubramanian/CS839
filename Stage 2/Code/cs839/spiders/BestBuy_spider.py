@@ -1,4 +1,5 @@
 import scrapy
+from collections import OrderedDict
 class BestBuySpider(scrapy.Spider):
     name ="bestbuy"
     def start_requests(self):
@@ -21,15 +22,14 @@ class BestBuySpider(scrapy.Spider):
             genre = content.css('.genre>.sku-value::text').extract_first()
             rating = content.css('.c-review-average::text').extract_first()
             release = content.css('.release-date>.sku-value::text').extract_first()
-            price= content.css('.pb-purchase-price').re('Your price for this item is (.*)"')[0]
-
-            yield {
-                'title': title,
-                'artist': artist,
-                'genre': genre,
-                'release':release,
-                'price':price,
-            }
+            #price= content.css('.pb-purchase-price').re('Your price for this item is (.*)"')[0]
+            result = OrderedDict()
+            result['Title'] = title
+            result['Artist'] = artist
+            result['Genre'] = genre
+            result['Release'] = release
+            result['Rating'] = rating
+            yield result
         links = response.css('.pager')
         for l in links:
             if l is not None:
