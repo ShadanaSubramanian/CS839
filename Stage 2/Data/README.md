@@ -1,8 +1,8 @@
 ### Number of Tuples:
-- Table A 
-      - BestBuy(bestbuy_music.csv) -4360
-- Table B 
-      - Metacritic(metacritic_music.csv) -4330
+- Table A (Best buy - bestbuy_music.csv)
+      - <b>4360</b>
+- Table B (Metacritic - metacritic_music.csv)
+      - <b>4330</b>
 ### Schema: 
 - Title - name of the music album
 - Artist -  artist of the album
