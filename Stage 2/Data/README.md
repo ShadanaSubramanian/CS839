@@ -6,7 +6,11 @@
 ### Schema: 
 - Title
      <br/>    - name of the music album
-- Artist -  artist of the album
-- Genre - conventional category that identifies some pieces of music
-- Release - date of release of the album
-- Rating - rating the album has received on that particular site.
+- Artist
+     <br/>     -  artist of the album
+- Genre
+     <br/>     - conventional category that identifies some pieces of music
+- Release
+     <br/>     - date of release of the album
+- Rating
+     <br/>     - rating the album has received on that particular site.
