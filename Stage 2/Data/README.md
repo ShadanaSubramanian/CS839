@@ -5,7 +5,7 @@
       - <b>4330</b>
 ### Schema: 
 - Title
-      - name of the music album
+      * name of the music album
 - Artist -  artist of the album
 - Genre - conventional category that identifies some pieces of music
 - Release - date of release of the album
