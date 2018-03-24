@@ -1,7 +1,7 @@
 ### Number of Tuples:
-#####Table A (Best buy - bestbuy_music.csv)
+##### Table A (Best buy - bestbuy_music.csv)
 -  <b>4360</b>
-#####Table B (Metacritic - metacritic_music.csv)
+##### Table B (Metacritic - metacritic_music.csv)
 -  <b>4330</b>
 ### Schema: 
 - Title
