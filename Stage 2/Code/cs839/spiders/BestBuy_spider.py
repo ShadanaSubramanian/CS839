@@ -3,11 +3,6 @@ from collections import OrderedDict
 class BestBuySpider(scrapy.Spider):
     name ="bestbuy"
     def start_requests(self):
-        # urls =[
-        #        "https://www.bestbuy.com/site/searchpage.jsp?cp=1&searchType=search&_dyncharset=UTF-8&ks=960&sc=Global&list=y&usc=All%20Categories&type=page&id=pcat17071&iht=n&seeAll=&browsedCategory=cat02012&st=cat02012_categoryid%24cat02001&qp=&sp=-bestsellingsort%20skuidsaas",
-        #     "https://www.bestbuy.com/site/searchpage.jsp?cp=1&searchType=search&_dyncharset=UTF-8&ks=960&sc=Global&list=y&usc=All%20Categories&type=page&id=pcat17071&iht=n&seeAll=&browsedCategory=cat02012&st=cat02012_categoryid%24cat02001&qp=genre_facet%3DGenre~New%20Age&sp=-bestsellingsort%20skuidsaas",
-        #     "https://www.bestbuy.com/site/searchpage.jsp?cp=1&searchType=search&_dyncharset=UTF-8&ks=960&sc=Global&list=y&usc=All%20Categories&type=page&id=pcat17071&iht=n&seeAll=&browsedCategory=cat02012&st=cat02012_categoryid%24cat02001&qp=genre_facet%3DGenre~New%20Age%5Egenre_facet%3DGenre~Rock&sp=-bestsellingsort%20skuidsaas"
-        #        ]
         urls = ["https://www.bestbuy.com/site/searchpage.jsp?cp=1&searchType=search&_dyncharset=UTF-8&ks=960&sc=Global&list=y&usc=All%20Categories&type=page&id=pcat17071&iht=n&seeAll=&browsedCategory=pcmcat197800050016&st=pcmcat197800050016_categoryid%24cat02001&qp=format_facet%3DFormat~CD%5Egenre_facet%3DGenre~Pop&sp=-bestsellingsort%20skuidsaas",
                 "https://www.bestbuy.com/site/searchpage.jsp?cp=1&searchType=search&_dyncharset=UTF-8&ks=960&sc=Global&list=y&usc=All%20Categories&type=page&id=pcat17071&iht=n&seeAll=&browsedCategory=cat02012&st=cat02012_categoryid%24cat02001&qp=genre_facet%3DGenre~New%20Age&sp=-bestsellingsort%20skuidsaas",
                 ]
