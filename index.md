@@ -18,6 +18,7 @@
 * [Data](https://github.com/sugadev/CS839/tree/master/Stage%202/Data)
 * [Code](https://github.com/sugadev/CS839/tree/master/Stage%202/Code/cs839)
 * [Report](https://github.com/sugadev/CS839/blob/master/Stage%202/Stage2_Report.pdf)
+
 ### STAGE 3
 * [Data](https://github.com/sugadev/CS839/tree/master/Stage%203/Data)
 * [Code](https://github.com/sugadev/CS839/tree/master/Stage%203/Code)
