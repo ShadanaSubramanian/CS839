@@ -20,8 +20,5 @@
 * [Report](https://github.com/sugadev/CS839/blob/master/Stage%202/Stage2_Report.pdf)
 ### STAGE 3
 * [Data](https://github.com/sugadev/CS839/tree/master/Stage%203/Data)
-  <br/>  - [Data from Metacritic](https://github.com/sugadev/CS839/blob/master/Stage%202/Data/metacritic_music.csv)
-  <br/>  - [Data from BestBuy](https://github.com/sugadev/CS839/blob/master/Stage%202/Data/bestbuy_music.csv)
 * [Code](https://github.com/sugadev/CS839/tree/master/Stage%203/Code)
-  <br/>  - [Scrapy Spider Code for Metacritic]
 * [Report](https://github.com/sugadev/CS839/blob/master/Stage%203/Stage3_Report.pdf)
