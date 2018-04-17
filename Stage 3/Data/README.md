@@ -1,5 +1,6 @@
 ### Number of Tuples:
 Table A (bestbuy_music.csv) : <b>4360</b>
+<br/>
 Table B (metacritic_music.csv) : <b>4330</b>
 ### Schema: 
 - ID : Unique identifier to identify the tuple
