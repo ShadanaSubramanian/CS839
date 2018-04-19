@@ -8,6 +8,7 @@
 ### STAGE 3
 * [Data](https://github.com/sugadev/CS839/tree/master/Stage%203/Data)
 * [Code](https://github.com/sugadev/CS839/tree/master/Stage%203/Code)
+   - [Jupyter notebook link](https://github.com/sugadev/CS839/blob/master/Stage%203/Code/Entity_Matching.ipynb)
 * [Report](https://github.com/sugadev/CS839/blob/master/Stage%203/Stage3_Report.pdf)
 
 
