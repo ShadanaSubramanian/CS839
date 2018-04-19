@@ -1,8 +1,9 @@
-### Number of Tuples:
+### Tables A & B
+## Number of Tuples:
 Table A (bestbuy_music.csv) : <b>4360</b>
 <br/>
 Table B (metacritic_music.csv) : <b>4330</b>
-### Schema: 
+## Schema: 
 - ID : Unique identifier to identify the tuple
 - Title : name of the music album
 - Artist : artist of the album
