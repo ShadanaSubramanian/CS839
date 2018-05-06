@@ -5,6 +5,10 @@
 - Vignesh Thirunavukkarasu
 
 
+### STAGE 4
+* [Directory that contains Table E, the set of matches between Tables A and B and the Python script used to merge the two tables A and B](https://github.com/sugadev/CS839/tree/master/Stage%204/Data%20and%20Code)
+* [Report](https://github.com/sugadev/CS839/blob/master/Stage%204/Stage4_Report.pdf)
+
 ### STAGE 3
 * [Data](https://github.com/sugadev/CS839/tree/master/Stage%203/Data)
 * [Code](https://github.com/sugadev/CS839/tree/master/Stage%203/Code)
