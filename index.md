@@ -10,6 +10,7 @@
 * [Report](https://github.com/sugadev/CS839/blob/master/Stage%204/Stage4_Report.pdf)
 
 ### STAGE 3
+* [DEEP MATCHER](https://github.com/sugadev/CS839/blob/master/Stage%203/Code/DL%20MATCHER.ipynb)
 * [Data](https://github.com/sugadev/CS839/tree/master/Stage%203/Data)
 * [Code](https://github.com/sugadev/CS839/tree/master/Stage%203/Code)
    - [Jupyter notebook link](https://github.com/sugadev/CS839/blob/master/Stage%203/Code/Entity_Matching.ipynb)
