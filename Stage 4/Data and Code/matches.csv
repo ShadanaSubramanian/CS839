@@ -1,0 +1,118 @@
+,_id,ltable_ID,rtable_ID,ltable_Title,ltable_Artist,ltable_Genre,ltable_Release,ltable_Rating,rtable_Title,rtable_Artist,rtable_Genre,rtable_Release,rtable_Rating
+0,80,169,2,reputation [CD],Taylor Swift,Pop,11/10/2017,4.6,reputation,Taylor Swift,"Pop,Adult Contemporary,Pop/Rock,Dance-Pop,Teen Pop",10-Nov-17,7.7
+1,81,912,2,reputation [Picture Disc] [2 LP] [LP] - VINYL,Taylor Swift,Pop,12/15/2017,4,reputation,Taylor Swift,"Pop,Adult Contemporary,Pop/Rock,Dance-Pop,Teen Pop",10-Nov-17,7.7
+2,82,2266,3,Camila [CD],Camila Cabello,Latin,1/12/2018,4.8,Camila,Camila Cabello,"Pop,Pop/Rock,Dance-Pop,Pop Idol,Teen Pop",12-Jan-18,8.9
+3,88,516,5,Unapologetically [CD],Kelsea Ballerini,Country,11/3/2017,4.8,Unapologetically,Kelsea Ballerini,"Pop,Country,Pop/Rock,Contemporary Country,Country-Pop",3-Nov-17,7.5
+4,135,2304,8, The Neighbourhood [CD],The Neighbourhood,Electronic/Dance,3/9/2018,,The Neighbourhood,The Neighbourhood,"Pop,Electronic,Pop/Rock,Contemporary Pop/Rock,Left-Field Pop,Synthwave",9-Mar-18,tbd
+5,155,1318,10,Thank You [CD],Meghan Trainor,Pop,5/13/2016,4.5,Thank You,Meghan Trainor,"Pop,Pop/Rock,Dance-Pop,Teen Pop,Contemporary Pop/Rock",13-May-16,5.5
+6,167,2188,10,Thank You [Deluxe Edition] [CD],Meghan Trainor,Pop,5/13/2016,4.5,Thank You,Meghan Trainor,"Pop,Pop/Rock,Dance-Pop,Teen Pop,Contemporary Pop/Rock",13-May-16,5.5
+7,193,1282,12,Oh My My [CD],OneRepublic,Pop,10/7/2016,4.6,Oh My My,OneRepublic,"Pop,Pop/Rock,Alternative/Indie Rock,Contemporary Pop/Rock",7-Oct-16,7.9
+8,306,2696,18,Mad Love [CD] [PA],JoJo,Pop,10/14/2016,4.7,Mad Love,JoJo,"Pop,Pop/Rock,Dance-Pop",14-Oct-16,8.6
+9,330,4357,18,Mad Love [CD],JoJo,Pop,10/14/2016,5,Mad Love,JoJo,"Pop,Pop/Rock,Dance-Pop",14-Oct-16,8.6
+10,343,3686,22,So Good [CD] [PA],Zara Larsson,Electronic/Dance,3/17/2017,4.7,So Good,Zara Larsson,"Pop,Electronic,Pop/Rock,Dance-Pop",17-Mar-17,7.6
+11,609,733,31,Revival [CD],Selena Gomez,Pop,12/4/2015,4.7,Revival,Selena Gomez,"Pop,Pop/Rock,Dance-Pop,Club/Dance",9-Oct-15,7.6
+12,622,3782,36,Sounds Good Feels Good [CD],5 Seconds of Summer,Pop,10/23/2015,4.6,Sounds Good Feels Good,5 Seconds of Summer,"Pop,Pop/Rock,Teen Pop,Punk-Pop",23-Oct-15,7
+15,692,1316,38,Purpose [CD],Justin Bieber,Pop,11/13/2015,4.6,Purpose,Justin Bieber,"Pop,Pop/Rock,Dance-Pop",13-Nov-15,5.8
+16,694,3351,38,Purpose [LP] - VINYL,Justin Bieber,Pop,11/13/2015,4.2,Purpose,Justin Bieber,"Pop,Pop/Rock,Dance-Pop",13-Nov-15,5.8
+17,742,4021,43,Wildfire [CD],Rachel Platten,Pop,1/1/2016,4.7,Wildfire,Rachel Platten,"Pop,R&B,Folk,Pop/Rock,Adult Alternative Pop/Rock,Alternative/Indie Rock,Contemporary Singer/Songwriter",1-Jan-16,5.5
+18,752,2057,44,This Is Acting [Deluxe Edition] [CD],Sia,Pop,10/21/2016,4.7,This Is Acting,Sia,"Pop,Pop/Rock,Adult Alternative Pop/Rock,Alternative/Indie Rock,Alternative Singer/Songwriter,Left-Field Pop",29-Jan-16,7.6
+19,766,3250,44,This Is Acting [CD],Sia,Pop,1/29/2016,4.6,This Is Acting,Sia,"Pop,Pop/Rock,Adult Alternative Pop/Rock,Alternative/Indie Rock,Alternative Singer/Songwriter,Left-Field Pop",29-Jan-16,7.6
+20,949,4114,47,Mind of Mine [Deluxe Edition] [CD] [PA],ZAYN,Pop,3/25/2016,4.4,Mind of Mine,ZAYN,"Pop,R&B,Pop/Rock,Contemporary R&B,Alternative R&B",25-Mar-16,7.6
+21,1578,1295,48,Lukas Graham [CD],Lukas Graham,Pop,4/1/2016,4.8,Lukas Graham,Lukas Graham,"Pop,Pop/Rock,Adult Alternative Pop/Rock,Alternative/Indie Rock,Contemporary Pop/Rock",1-Apr-16,6.4
+53,3218,413,77,Blurryface [LP] - VINYL,Twenty One Pilots,Pop,7/31/2015,4.7,Blurryface,Twenty One Pilots,"Pop,Rap,Pop/Rock,Alternative/Indie Rock,Alternative Pop/Rock,Indie Rock,Underground Rap",19-May-15,8.1
+54,3219,713,77,Blurryface [CD],Twenty One Pilots,Pop,5/18/2015,4.7,Blurryface,Twenty One Pilots,"Pop,Rap,Pop/Rock,Alternative/Indie Rock,Alternative Pop/Rock,Indie Rock,Underground Rap",19-May-15,8.1
+55,3225,3751,78,"How Big, How Blue, How Beautiful [Bonus Tracks] [CD]",Florence + the Machine,Pop,6/2/2015,4.8,"How Big, How Blue, How Beautiful",Florence + the Machine,"Pop,Pop/Rock,Adult Alternative Pop/Rock,Alternative/Indie Rock",2-Jun-15,8.9
+61,3336,3246,82,Love Songs [CD],Elton John,Pop,5/15/2001,5,Love in the Future,John Legend,"Pop,R&B,Soul,Urban,Pop/Rock,Contemporary Pop/Rock,Neo-Soul,Adult Contemporary R&B,Contemporary R&B",3-Sep-13,7.5
+62,3376,1028,86,Pure Heroine [CD],Lorde,Pop,9/30/2013,4.6,Pure Heroine,Lorde,"Pop,Pop/Rock",30-Sep-13,8.8
+63,3377,1108,86,Pure Heroine [LP] - VINYL,Lorde,Pop,11/19/2013,5,Pure Heroine,Lorde,"Pop,Pop/Rock",30-Sep-13,8.8
+64,3553,2771,100,Goodbye Yellow Brick Road [LP] - VINYL,Elton John,Pop,4/8/2014,5,Goodbye Yellow Brick Road [40th Anniversary Edition],Elton John,Pop,25-Mar-14,8.6
+65,3554,3843,100,Goodbye Yellow Brick Road [CD],Elton John,Pop,3/25/2014,5,Goodbye Yellow Brick Road [40th Anniversary Edition],Elton John,Pop,25-Mar-14,8.6
+67,3797,688,102,In the Lonely Hour [CD],Sam Smith,Pop,6/17/2014,4.6,In the Lonely Hour,Sam Smith,"Pop,Adult Contemporary,Pop/Rock,Contemporary R&B,Left-Field Pop",17-Jun-14,6.7
+68,3800,3358,102,In the Lonely Hour [Drowning Shadows Edition] [LP] - VINYL,Sam Smith,Pop,1/15/2016,5,In the Lonely Hour,Sam Smith,"Pop,Adult Contemporary,Pop/Rock,Contemporary R&B,Left-Field Pop",17-Jun-14,6.7
+69,3867,701,107,x [CD],Ed Sheeran,Pop,6/23/2014,4.7,X,Ed Sheeran,"Pop,Singer/Songwriter,Pop/Rock,Adult Alternative Pop/Rock,Alternative/Indie Rock,Contemporary Singer/Songwriter,Alternative Singer/Songwriter",23-Jun-14,7.2
+70,3868,718,107,x [Wembley Edition] [Deluxe Edition] [CD & DVD],Ed Sheeran,Pop,11/13/2015,4.7,X,Ed Sheeran,"Pop,Singer/Songwriter,Pop/Rock,Adult Alternative Pop/Rock,Alternative/Indie Rock,Contemporary Singer/Songwriter,Alternative Singer/Songwriter",23-Jun-14,7.2
+71,3870,2002,107,x [2-LP] [LP] - VINYL,Ed Sheeran,Pop,7/15/2014,4.1,X,Ed Sheeran,"Pop,Singer/Songwriter,Pop/Rock,Adult Alternative Pop/Rock,Alternative/Indie Rock,Contemporary Singer/Songwriter,Alternative Singer/Songwriter",23-Jun-14,7.2
+72,4665,244,118,Unorthodox Jukebox [CD] [PA],Bruno Mars,Pop,12/11/2012,4.7,Unorthodox Jukebox,Bruno Mars,"Pop,R&B,Pop/Rock",11-Dec-12,6.7
+73,4667,4147,118,Unorthodox Jukebox [Clean] [CD],Bruno Mars,Pop,12/11/2012,4.3,Unorthodox Jukebox,Bruno Mars,"Pop,R&B,Pop/Rock",11-Dec-12,6.7
+74,4673,1221,119,Native [Bonus Tracks] [2014] [CD],OneRepublic,Pop,4/18/2014,4.7,Native,OneRepublic,"Pop,Pop/Rock,Alternative/Indie Rock,Alternative Pop/Rock,Contemporary Pop/Rock",26-Mar-13,8.3
+76,4697,3395,122,The Sounds of Nature: Great Masters [CD],Various Artists,New Age,9/25/2007,,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+77,4706,16,122,Zen: Music For Reflection [CD],Various Artists,New Age,7/1/2016,,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+80,4717,424,122,Now That's What I Call Music! 64 [CD],Various Artists,Pop,11/3/2017,4.5,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+83,4729,790,122,Now That's What I Call Music! 63 [CD],Various Artists,Pop,8/4/2017,4.4,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+86,4741,1020,122,Now That's What I Call Music! 61 [CD],Various Artists,Pop,1/27/2017,4.5,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+87,4743,1067,122,Now That's What I Call Music! 59 [CD],Various Artists,Pop,8/5/2016,4.5,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+90,4747,1164,122,Now That's What I Call Music! 60 [CD],Various Artists,Pop,11/4/2016,4.3,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+94,4760,1741,122,Music for Massage [CD],Various Artists,New Age,7/9/2013,,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+95,4770,1894,122,India: Music for Meditation [CD],Various Artists,New Age,8/7/2015,,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+97,4781,2345,122,Now That's What I Call Music! 56 [CD],Various Artists,Country,10/30/2015,4.5,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+98,4782,2365,122,Music for Yoga [Domo] [CD],Various Artists,New Age,2/6/2007,,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+101,4794,2768,122,Now That's What I Call Music! 57 [CD],Various Artists,Pop,2/5/2016,4.5,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+102,4795,2809,122,"Guitar Music for Small Rooms, Vol. 3 [CD]",Various Artists,New Age,3/16/2004,,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+103,4796,2818,122,Drift Away: Music for Relaxation [CD],Various Artists,New Age,4/24/2012,,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+104,4798,2918,122,Now That's What I Call Music! 55 [CD],Various Artists,Pop,8/7/2015,4.5,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+107,4812,3498,122,Classical Music for Sleep [CD],Various Artists,New Age,9/18/2001,,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+110,4823,3809,122,Music for Healing and Massage [CD],Various Artists,New Age,4/24/2012,,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+111,4828,3923,122,"Music for the Spirit, Vol. 4 [CD]",Various Artists,New Age,11/5/2002,,The Great Gatsby [Music from Baz Luhrmann's Film],Various Artists,"Pop,Rap,Avant-Garde,Pop/Rock,Adult Alternative Pop/Rock,Alternative Pop/Rock,Contemporary Pop/Rock,Soundtracks,Stage & Screen,Pop-Rap",7-May-13,7.8
+117,5191,2926,140,Dance Again...The Hits [CD],Jennifer Lopez,Pop,7/24/2012,5,Dance Again...The Hits,Jennifer Lopez,"Pop,R&B",2-Apr-12,7.3
+128,5511,2836,147,Blown Away [CD],Carrie Underwood,Country,5/1/2012,4.9,Blown Away,Carrie Underwood,"Pop,Country,Adult Contemporary,Pop/Rock,Pop Idol,Contemporary Country",1-May-12,6.9
+130,5621,439,155,The  Truth About Love [CD] [PA],P!nk,Pop,9/18/2012,4.6,The  Truth About Love,P!nk,"Pop,Pop/Rock,Dance-Pop,Contemporary Pop/Rock",18-Sep-12,8.2
+131,5623,2303,155,Truth About Love [LP] [PA],P!nk,Pop,9/18/2012,4,The  Truth About Love,P!nk,"Pop,Pop/Rock,Dance-Pop,Contemporary Pop/Rock",18-Sep-12,8.2
+132,5629,1930,155,What About Us [CD],P!nk,Pop,8/25/2017,,The  Truth About Love,P!nk,"Pop,Pop/Rock,Dance-Pop,Contemporary Pop/Rock",18-Sep-12,8.2
+133,5765,2277,160,Red [CD],Taylor Swift,Country,10/22/2012,4.7,Red,Taylor Swift,"Pop,Country,Pop/Rock,Teen Pop,Contemporary Country,Country-Pop",22-Oct-12,7.5
+134,5766,2298,160,Red [LP] - VINYL,Taylor Swift,Country,12/4/2012,5,Red,Taylor Swift,"Pop,Country,Pop/Rock,Teen Pop,Contemporary Country,Country-Pop",22-Oct-12,7.5
+135,5897,3046,171,Science & Faith [Bonus Tracks] [CD],The Script,Pop,1/18/2011,4.9,Science & Faith,The Script,"Pop,Pop/Rock,Adult Alternative Pop/Rock,Alternative/Indie Rock,Alternative Pop/Rock",18-Jan-11,7.9
+136,5936,174,174,The Essential Michael Jackson [CD],Michael Jackson,R&B Soul,7/19/2005,4.8,Michael,Michael Jackson,"Pop,R&B,Pop/Rock,Dance-Pop,Adult Contemporary R&B,Contemporary R&B",14-Dec-10,6.2
+138,6057,4193,179,Who You Are [Platinum Edition] [CD],Jessie J,Pop,11/22/2011,5,Who You Are,Jessie J,"Pop,Singer/Songwriter,Pop/Rock",12-Apr-11,6.2
+143,7390,3293,213,Rokstarr [CD],Taio Cruz,Pop,6/1/2010,4,Rokstarr,Taio Cruz,"Pop,R&B",1-Jun-10,3.1
+144,7471,214,219,Just Dance [Remix] [CD],Lady Gaga,Pop,6/17/2008,4.2,The Remix,Lady Gaga,"Pop,Electronic,R&B,Urban,Pop/Rock,Dance-Pop,Club/Dance",3-Aug-10,7.5
+145,7627,4117,222,Speak Now [Deluxe Edition] [CD],Taylor Swift,Country,1/17/2012,4.9,Speak Now,Taylor Swift,"Pop,Country,Pop/Rock,Contemporary Country",25-Oct-10,8
+149,7713,2884,224,Hands All Over [Bonus Track] [CD],Maroon 5,Pop,8/1/2011,4.6,Hands All Over,Maroon 5,"Pop,Pop/Rock,Adult Alternative Pop/Rock,Alternative/Indie Rock,Contemporary Pop/Rock",21-Sep-10,6.7
+150,7739,199,225,Loud [CD],Rihanna,R&B Soul,11/16/2010,4.7,Loud,Rihanna,"Pop,R&B,Dance-Pop,Contemporary R&B",16-Nov-10,7.7
+180,10002,1085,261,After Laughter [CD],Paramore,Pop,5/12/2017,4.3,After Laughter,Paramore,"Pop,Pop/Rock,Alternative/Indie Rock,Emo-Pop,Left-Field Pop",12-May-17,8.2
+181,10010,3711,261,After Laughter [LP] - VINYL,Paramore,Pop,9/8/2017,5,After Laughter,Paramore,"Pop,Pop/Rock,Alternative/Indie Rock,Emo-Pop,Left-Field Pop",12-May-17,8.2
+182,10012,2194,262,Double Dutchess [CD] [PA],Fergie,Pop,9/22/2017,4.1,Double Dutchess,Fergie,"Pop,Rap,Pop/Rock,Dance-Pop,Pop-Rap,Contemporary Rap",22-Sep-17,7.4
+183,10013,3943,262,The Dutchess [CD] [PA],Fergie,Pop,9/19/2006,4.7,Double Dutchess,Fergie,"Pop,Rap,Pop/Rock,Dance-Pop,Pop-Rap,Contemporary Rap",22-Sep-17,7.4
+184,10468,782,267,Tell Me You Love Me [Deluxe Edition] [CD] [PA],Demi Lovato,Pop,9/29/2017,4.8,Tell Me You Love Me,Demi Lovato,"Pop,R&B,Pop/Rock,Dance-Pop,Contemporary R&B",29-Sep-17,8.1
+185,10494,2591,267,Tell Me You Love Me [CD] [PA],Demi Lovato,Pop,9/29/2017,5,Tell Me You Love Me,Demi Lovato,"Pop,R&B,Pop/Rock,Dance-Pop,Contemporary R&B",29-Sep-17,8.1
+186,10698,271,271,The Fame [Bonus Track] [CD],Lady Gaga,Pop,10/28/2008,4.7,The Fame Monster,Lady Gaga,"Rock,Dance,Pop",23-Nov-09,8.9
+187,10699,1388,271,The Fame [LP] - VINYL,Lady Gaga,Pop,11/4/2008,4.8,The Fame Monster,Lady Gaga,"Rock,Dance,Pop",23-Nov-09,8.9
+188,10700,3379,271,The Fame Monster [Deluxe Edition] [CD],Lady Gaga,Pop,11/23/2009,4.7,The Fame Monster,Lady Gaga,"Rock,Dance,Pop",23-Nov-09,8.9
+190,11721,1632,288,Reality [CD],David Bowie,Pop,4/29/2008,5,A Reality Tour,David Bowie,"Rock,Pop",26-Jan-10,7
+195,12486,36,295,Beautiful Trauma [CD] [PA],P!nk,Pop,10/13/2017,4.6,Beautiful Trauma,P!nk,"Pop,R&B,Pop/Rock,Dance-Pop,Contemporary Pop/Rock",13-Oct-17,7.4
+196,12487,3666,295,Beautiful Trauma [LP] - VINYL,P!nk,Pop,10/13/2017,5,Beautiful Trauma,P!nk,"Pop,R&B,Pop/Rock,Dance-Pop,Contemporary Pop/Rock",13-Oct-17,7.4
+197,13125,902,297,Younger Now [CD],Miley Cyrus,Pop,9/29/2017,4.1,Younger Now,Miley Cyrus,"Pop,Vocal,Pop/Rock",29-Sep-17,6.8
+203,14646,2939,313,In a World Like This [CD],Backstreet Boys,Pop,7/30/2013,4.8,This Is Us,Backstreet Boys,"Rock,Dance,Pop",6-Oct-09,8
+204,14747,3006,316,Lungs [LP] - VINYL,Florence + the Machine,Pop,8/31/2010,4.7,Lungs,Florence + the Machine,"Rock,Pop,Alternative",20-Oct-09,9
+229,16277,1082,351,The Time of Our Lives [CD],Miley Cyrus,Pop,11/9/2009,4.8,The Time Of Our Lives [EP],Miley Cyrus,"Rock,Pop",28-Aug-09,7.6
+286,19767,1064,434,I Am...Sasha Fierce [Deluxe Edition] [CD],Beyoncé,R&B Soul,11/23/2009,4.5,I Am...Sasha Fierce,Beyoncé,"Pop,R&B,Soul",18-Nov-08,7.7
+288,19947,3245,439,Day & Age [LP] - VINYL,The Killers,Pop,12/15/2017,4,Day & Age,The Killers,"Rock,Pop",24-Nov-08,8
+298,20304,271,453,The Fame [Bonus Track] [CD],Lady Gaga,Pop,10/28/2008,4.7,The Fame,Lady Gaga,"Rock,Dance,Pop",28-Oct-08,8.3
+299,20305,1388,453,The Fame [LP] - VINYL,Lady Gaga,Pop,11/4/2008,4.8,The Fame,Lady Gaga,"Rock,Dance,Pop",28-Oct-08,8.3
+300,20306,3379,453,The Fame Monster [Deluxe Edition] [CD],Lady Gaga,Pop,11/23/2009,4.7,The Fame,Lady Gaga,"Rock,Dance,Pop",28-Oct-08,8.3
+303,22087,2877,476,Gossip in the Grain [CD],Ray LaMontagne,Pop,10/14/2008,5,Gossip In The Grain,Ray LaMontagne,"Rock,Pop,Alternative",14-Oct-08,8.4
+367,24623,878,530,19 [CD],Adele,Pop,6/24/2008,4.5,19,Adele,"Rock,Pop",10-Jun-08,7.6
+391,27158,3969,557,Some People Have Real Problems [CD],Sia,Pop,1/8/2008,4.5,Some People Have Real Problems,Sia,"Rock,Pop",8-Jan-08,9
+393,27957,3424,568,Sawdust [LP] - VINYL,The Killers,Pop,12/15/2017,,Sawdust,The Killers,"Rock,Pop",13-Nov-07,7.8
+436,29693,3202,592,"Echoes, Silence, Patience & Grace [CD]",Foo Fighters,Pop,9/25/2007,4.6,"Echoes, Silence, Patience & Grace",Foo Fighters,"Rock,Pop",25-Sep-07,7.8
+438,30521,2194,607,Double Dutchess [CD] [PA],Fergie,Pop,9/22/2017,4.1,The Dutchess,Fergie,"Pop,R&B",19-Sep-06,5.8
+439,30522,3943,607,The Dutchess [CD] [PA],Fergie,Pop,9/19/2006,4.7,The Dutchess,Fergie,"Pop,R&B",19-Sep-06,5.8
+440,30760,622,623,Riot! [CD],Paramore,Pop,6/12/2007,4.7,Riot!,Paramore,"Rock,Pop,Alternative",12-Jun-07,8.1
+441,31057,1540,629,I'm Not Dead [CD] [PA],P!nk,Pop,4/4/2006,,I'm Not Dead,P!nk,Pop,4-Apr-06,8.9
+495,33771,4312,685,Monkey Business [CD],The Black Eyed Peas,Pop,6/7/2005,3.6,Monkey Business,The Black Eyed Peas,"Pop,R&B",7-Jun-05,6
+504,34164,3103,706,In the Zone [CD],Britney Spears,Pop,11/18/2003,3.3,In The Zone,Britney Spears,"Dance,Pop",18-Nov-03,8.1
+638,37416,1791,763,X [CD],Def Leppard,Pop,7/30/2002,,X,Def Leppard,"Rock,Pop",30-Jul-02,8.2
+639,37536,1084,766,Justified [LP] - VINYL,Justin Timberlake,Pop,11/19/2002,5,Justified,Justin Timberlake,Pop,5-Nov-02,8.1
+640,37537,2485,766,Justified [CD],Justin Timberlake,Pop,11/5/2002,4.5,Justified,Justin Timberlake,Pop,5-Nov-02,8.1
+641,37692,1201,778,Dirty Heads [CD],Dirty Heads,Pop,7/15/2016,4.6,Dirty Vegas,Dirty Vegas,"Pop,Electronic",4-Jun-02,8.4
+731,39428,2568,810,Britney [Enhanced CD],Britney Spears,Pop,11/6/2001,5,Britney,Britney Spears,Pop,6-Nov-01,7.5
+775,41928,97,852,A Day Without Rain [LP] - VINYL,Enya,New Age,6/16/2017,5,A Day Without Rain,Enya,"Pop,New Age",21-Nov-00,8.5
+776,41929,111,852,A Day Without Rain [CD],Enya,New Age,11/21/2000,4.5,A Day Without Rain,Enya,"Pop,New Age",21-Nov-00,8.5
+881,50740,1799,924,(What's the Story) Morning Glory? [Super Deluxe Version] [CD],Oasis,Pop,9/30/2014,5,(What's the Story) Morning Glory? [Deluxe Edition - Remastered],Oasis,"Rock,Britpop,Pop/Rock",30-Sep-14,8.4
+882,50742,2916,924,(Whats the Story) Morning Glory [Remastered] [LP] - VINYL,Oasis,Pop,9/30/2014,4.9,(What's the Story) Morning Glory? [Deluxe Edition - Remastered],Oasis,"Rock,Britpop,Pop/Rock",30-Sep-14,8.4
+884,51140,3100,932,Saint Cecilia EP [LP] - VINYL,Foo Fighters,Pop,2/19/2016,4.7,Saint Cecilia EP,Foo Fighters,"Rock,Pop/Rock",23-Nov-15,8.2
+917,187074,735,3043,Demon Days [CD] [PA],Gorillaz,Pop,5/24/2005,4.7,Demon Days,Gorillaz,"Rock,Electronic,Alternative,Rap",24-May-05,9
+952,233955,3050,3799,Give Up [LP] - VINYL,The Postal Service,Electronic/Dance,11/24/2014,4.3,Give Up,The Postal Service,"Indie,Rock,Electronic",18-Feb-03,9
+955,240381,1244,3898,A Rush of Blood to the Head [CD],Coldplay,Pop,8/27/2002,4.7,A Rush Of Blood To The Head,Coldplay,"Rock,Alternative,Britpop",27-Aug-02,8.9
+956,240390,3682,3898,A Rush of Blood to the Head [LP] - VINYL,Coldplay,Pop,9/2/2008,4.8,A Rush Of Blood To The Head,Coldplay,"Rock,Alternative,Britpop",27-Aug-02,8.9
+961,251312,1966,4110,Gorillaz [2001 Bonus Tracks] [CD] [PA],Gorillaz,Pop,6/19/2001,4.5,Gorillaz,Gorillaz,"Rock,Alternative,Rap",19-Jun-01,8.8
+971,267114,3586,4319,I Am Shelby Lynne [CD],Shelby Lynne,Country,4/7/2015,,I Am Shelby Lynne,Shelby Lynne,"Rock,Country",25-Jan-00,8.8
